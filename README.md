@@ -1,17 +1,24 @@
-### SOBRE
-<img align="left" src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4475176D2" width="13%"/>
+content:
+  - title: Section Name
+    layout: list (options: list, text)
+    content:
+      - layout: left (options: left, right, top, top-right, top-middle)(default: left)
+        title: Name of item (eg. Company or Project name)
+        sub_title: Sub title (eg. Qualification or Job title)(optional)
+        caption: Item caption (eg. Employment or course dates)(optional)
+        link: Web link (eg. https://sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Text for link (optional: without this link will show URL as link text)
+        additional_links: (optional)
+          - title: Link name
+            icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+            url: Link url (eg. https://google.com)
+        quote: >
+          Short overview or quote for the item
+        description: | # this will include new lines to allow paragraphs
+          Main content area for the list item.
+  - title: Section Name
+    layout: text (options: list, text)
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-<p align="justify">Meu nome é Andrey sou um economista/estatístico entusiasta na exploração e aplicação de métodos estatísticos usando microdados.<p/>
-
-* 🎓 **Graduado em Ciências Econômicas** - Universidade Estadual de Londrina (2009).
-* 🎓 **Graduado em Estatística** - Universidade Federal do Paraná (2018).
-* 🧙 **Mestre em Teoria Econômica** - Universidade Estadual de Maringá (2012).
-* 💼 **Economista** - Instituto Paranaense de Desenvolvimento Econômico e Social (2012).
-<br />
-<br />
-<br />
-<br />
-
-👨‍💻 Meus projetos estão disponíveis em: [🔗 https://github.com/andreyivale?tab=repositories](https://github.com/andreyivale?tab=repositories) 
-
-👨‍💻 Meu Lattes está disponível em: [🔗  http://lattes.cnpq.br/1584553760163934](http://lattes.cnpq.br/1584553760163934)
+      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*

@@ -1,3 +1,6 @@
+### SOBRE
+<img align="left" src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4475176D2" width="13%"/>
+
 <p align="justify">Meu nome é Andrey sou um economista/estatístico entusiasta na exploração e aplicação de métodos estatísticos usando microdados.<p/>
 
 * 🎓 **Graduado em Ciências Econômicas** - Universidade Estadual de Londrina (2009).
